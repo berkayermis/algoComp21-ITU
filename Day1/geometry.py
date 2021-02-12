@@ -1,0 +1,1 @@
+givenInp = int(input())
